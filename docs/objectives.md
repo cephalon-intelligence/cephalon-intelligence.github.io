@@ -15,6 +15,8 @@ created: 2022-12-10
 
 </style>
 
+<p style="color: red; ">Work in progress...</p>
+
 To realize this vision, there are five necessary requirements:
 
 1. A philosophical framework to define what constitutes good or bad use of the tool. In other words: a set of abstract yet rigorously justified core objectives.
