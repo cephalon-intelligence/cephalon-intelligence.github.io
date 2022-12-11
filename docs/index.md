@@ -7,4 +7,6 @@
 <p style="text-align: center; font-size: 20px; color:#F6D6A5"><i>Truth is Freedom</i></p>
 <br>
 
-Welcome to the CIO. The project is still in its infancy, and accordingly it can be expected to continuously evolve.
+insert links here
+
+The CIO is an [open source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence) organization. The project is not affiliated with the US Government; it is maintained and primarily developed by a cognitive science [student](https://www.github.com/harttraveller). The project is still in its infancy, and accordingly it can be expected to continuously evolve.
