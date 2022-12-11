@@ -15,7 +15,7 @@ created: 2022-12-10
 
 </style>
 
-<img src="../assets/page.introduction.png" style="clip-path: inset(64px 0px 64px 0px round 10px); margin: -64px 0px -64px 0px; ">
+<img src="../../assets/page.introduction.png" style="clip-path: inset(64px 0px 64px 0px round 10px); margin: -64px 0px -64px 0px; ">
 
 Suppose you had a system connected to the [collective unconscious](https://en.wikipedia.org/wiki/Collective_unconscious) of humanity. The engineers of this ephemeral automaton have designed it in such a way that it can accept linguistic commands as inputs, and independently act to realize the associated objectives. If the interface were a command line, directives one might pass to the system could include:
 
