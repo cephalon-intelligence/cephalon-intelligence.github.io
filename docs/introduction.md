@@ -17,7 +17,7 @@ created: 2022-12-10
 
 <img src="../assets/page.introduction.png" style="clip-path: inset(64px 0px 64px 0px round 10px); margin: -64px 0px -64px 0px; ">
 
-Suppose you had a system connected to the [collective unconscious](https://en.wikipedia.org/wiki/Collective_unconscious) of humanity. The engineers of this hypothetical automaton have designed it such that given a discrete command it can independently act to realize the associated objective. Optimally, one could interface with the system through a command line capable of interpreting natural language. Commands one might pass could include:
+Suppose you had a system connected to the [collective unconscious](https://en.wikipedia.org/wiki/Collective_unconscious) of humanity. The engineers of this ephemeral automaton have designed it such that given a discrete command it can independently act to realize the associated objective. Optimally, one could interface with the system through a command line capable of interpreting natural language. Commands one might pass could include:
 
 ```
 > Reduce the drug dependence in opiate addicts.
