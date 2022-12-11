@@ -20,9 +20,9 @@ created: 2022-12-10
 Suppose that you had a system connected to the [collective unconscious](https://en.wikipedia.org/wiki/Collective_unconscious) of society. This system is designed such that given a discrete objective, it can independently act in an attempt to realize that objective. Let's imagine that you interface with this system through a command line capable of interpreting natural language. Commands one might pass could include:
 
 ```
-> Reduce the level of drug addiction in opiate addicts.
-> Raise the level of interest in STEM in high school students.
-> Increase general levels of physical exercise.
+> Reduce the drug dependence in opiate addicts.
+> Raise the interest level in STEM in high school students.
+> Increase general levels of physical exercise across the population.
 ```
 
 Several months after passing in the commands, you would begin to see these changes manifest in society around you.
