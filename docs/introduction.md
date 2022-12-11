@@ -22,7 +22,7 @@ Suppose you had a system connected to the [collective unconscious](https://en.wi
 ```
 > Reduce drug dependence in the population of opiate addicts.
 > Replace youth social media addiction with creative passion.
-> Increase general levels of physical exercise across the general population.
+> Increase levels of physical exercise across the general population.
 ```
 
 Several months after running the commands, you would begin to see these changes manifest around you in society.
