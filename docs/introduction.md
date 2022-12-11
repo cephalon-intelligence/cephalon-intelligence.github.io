@@ -21,7 +21,7 @@ Suppose you had a system connected to the [collective unconscious](https://en.wi
 
 ```
 > Reduce the drug dependence in opiate addicts.
-> Raise the interest level in STEM in high school students.
+> Raise the level of interest in STEM in high school students.
 > Increase general levels of physical exercise across the population.
 ```
 
