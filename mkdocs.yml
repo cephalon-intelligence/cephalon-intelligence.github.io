@@ -13,8 +13,6 @@ theme:
     - header.autohide
     - navigation.instant
     - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
 
 markdown_extensions:
   - admonition
@@ -22,3 +20,5 @@ markdown_extensions:
 
 nav:
   - Home: "index.md"
+  - About:
+      - Introduction: "pages/introduction.md"
