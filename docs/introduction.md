@@ -27,4 +27,4 @@ Suppose you had a system connected to the [collective unconscious](https://en.wi
 
 Several months after running the commands, you would begin to see these changes manifest around you in society.
 
-Of course, fully automating such a system is (probably) beyond the scope of our current capabilities, but in theory building it may still be possible by fusing intelligent technology and human general intelligence. The CIO is an attempt to realize this system.
+Of course, fully automating such a system is (probably) beyond the scope of our current capabilities, but in theory building it may still be possible by fusing intelligent technology and human general intelligence. The CIO is an attempt to realize this vision.
