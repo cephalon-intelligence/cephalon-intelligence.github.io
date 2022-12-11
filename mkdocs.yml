@@ -28,7 +28,7 @@ markdown_extensions:
 
 nav:
   - Home: "index.md"
-  - Introduction: "introduction.md"
+  - Introduction: "pages/introduction.md"
   # - Objectives: "objectives.md"
   # - Concepts: "concepts.md"
   # - Repositories: "repositories.md"
