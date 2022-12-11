@@ -7,7 +7,7 @@ theme:
   favicon: assets/CIO.png
   palette:
     scheme: slate
-    primary: white
+    primary: black
     accent: indigo
   features:
     - header.autohide
