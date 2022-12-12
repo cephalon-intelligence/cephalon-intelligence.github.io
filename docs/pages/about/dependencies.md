@@ -15,7 +15,7 @@ To realize this vision, there are five primary dependencies.
 
 1. A philosophical framework to define what constitutes good or bad use of the system. In other words: a set of abstract yet rigorously justified core objectives.
 2. A model of reality that is faithful to the truth, and can predict the future.
-3. Actionable commands that abide by the framework, and are likely to achieve the core objectives given the model of reality.
+3. Actionable commands that abide by the framework, and are likely to achieve the core objectives given the reality model.
 4. A system to execute the commands.
 5. A feedback system to monitor if the execution of commands has obtained the objectives.
 
