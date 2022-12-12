@@ -19,4 +19,4 @@ To realize this vision, there are five primary dependencies.
 4. A system to execute the commands.
 5. A feedback system to monitor if the execution of commands has obtained the objectives.
 
-Before we dive deeper into the dependencies, let's also define the principles that the CIO must abide by. The principles of the CIO are defined in the organizational constitution. This is separate from the philosophical framework. The difference between the two is that the framework tells us *what we should do*, whereas the constitution tell us *how we should do it*.
+Before we dive deeper into the dependencies, let's also define the "rules of engagement" that the CIO must abide by. These are defined in the organizational constitution. This is separate from the philosophical framework. The difference between the two is that the framework tells us *what we should do*, whereas the constitution tell us *how we should do it*.
