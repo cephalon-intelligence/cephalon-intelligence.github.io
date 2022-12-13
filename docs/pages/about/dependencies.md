@@ -9,7 +9,7 @@
 
 </style>
 
-<img src="../../../assets/page.introduction.png" style="clip-path: inset(64px 0px 64px 0px round 10px); margin: -64px 0px -64px 0px; ">
+<img src="../../../assets/page.dependencies.png" style="clip-path: inset(64px 0px 64px 0px round 10px); margin: -64px 0px -64px 0px; ">
 
 To realize this vision, there are five primary dependencies.
 
