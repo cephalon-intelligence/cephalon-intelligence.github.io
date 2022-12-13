@@ -8,11 +8,13 @@ theme:
   palette:
     scheme: slate
     primary: black
-    accent: indigo
+    accent: orange
   features:
     - header.autohide
     - navigation.instant
     - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 markdown_extensions:
   - admonition
@@ -28,9 +30,10 @@ markdown_extensions:
 
 nav:
   - Home: "index.md"
-  - About:
-      - Introduction: "pages/about/introduction.md"
-      - Dependencies: "pages/about/dependencies.md"
+  # - About:
+  # - Introduction: "pages/about/introduction.md"
+  # - Thought Experiment: "pages/about/thought-experiment.md"
+  # - Dependencies: "pages/about/dependencies.md"
   # - Objectives: "objectives.md"
   # - Concepts: "concepts.md"
   # - Repositories: "repositories.md"
