@@ -1,9 +1,27 @@
-#
-<p align="center">
-<img src="assets/CIO.png" width="256" height="256">
-</p>
+---
+hide:
+  - navigation
+  - toc
+---
 
-<p style="text-align: center; font-weight: bold; font-size: 30px; color:#F6D6A5; ">Truth is Freedom</p>
+<style>
+
+    .md-typeset h1,
+    .md-content__button {
+
+        display: none;
+
+    }
+
+</style>
+<br>
+<br>
+<p align="center">
+<img src="assets/CIO.png" width="140" height="140">
+</p>
+<p style="text-align: center; font-size: 26px; color:#FFFFFF; ">Truth is Freedom</p>
 <br>
 
-The [CIO](https://github.com/cephalon-intelligence) is an [open source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence) organization. It is not affiliated with the US Government. The project is still in its infancy, and accordingly it is expected to continuously evolve.
+<p style="text-align: center; font-size: 20px; color:#FFFFFF;">The CIO is a democratized and open source intelligence organization.</p>
+<p style="text-align: center; font-size: 20px; color:#FFFFFF;">Its objective is to maximize universal freedom.</p>
+<p style="text-align: center; font-size: 20px; color:#FFFFFF;">Our objective is to give it the intelligence to advance this ideal.</p>
